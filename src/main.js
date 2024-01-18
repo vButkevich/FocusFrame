@@ -1,5 +1,7 @@
 'use strict';
 {
+  console.log('FocusFrame:v1.001');
+
   let menuBtnOpen = document.querySelector('.header-menu-btn');
   menuBtnOpen.addEventListener('click', function () {
     mobileMenuToggle();
