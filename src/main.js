@@ -1,6 +1,6 @@
 'use strict';
 {
-  console.log('FocusFrame:v1.001');
+  console.log('FocusFrame:[2024.01.19]:v1.001.dev');
 
   let menuBtnOpen = document.querySelector('.header-menu-btn');
   menuBtnOpen.addEventListener('click', function () {
